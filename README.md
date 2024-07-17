@@ -1,0 +1,2 @@
+# flappybird
+test of pygame
